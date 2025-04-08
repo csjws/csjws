@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csjws&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+
 ## Introduce 
 안녕하세요 영남대학교 컴퓨터공학과 재학중인 서준우입니다.
 
